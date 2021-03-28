@@ -1,0 +1,58 @@
+.image-logo {
+  width: 20%;
+  margin: 0 auto;
+  position: relative;
+  top: -3em;
+  right: -2em;
+}
+
+.image-logo img {
+  border-radius: 140px;
+  height: 90px;
+}
+
+.myname {
+  font-weight: bolder;
+}
+
+.reach {
+  font-weight: bold;
+  color: #373e47;
+}
+
+.iconColor, a {
+  color:#9e7f59;
+  font-size: 30px;
+}
+
+.headerabout {
+  padding: 7px;
+}
+
+.emoji {
+  color: #2aa84c;
+}
+
+h1 {
+  color:#9e7f59;
+}
+
+.cardSect {
+  padding: 5px;
+}
+
+i.twt {
+  color: #BDDE84;
+}
+
+i.fb {
+  color: #FA7683;
+}
+
+i.lkd {
+    color: #0082CA;
+}
+
+i.gh {
+    color: #FBBFC5;
+}
